@@ -1,4 +1,4 @@
-Original data were downloaded from the SAbDab-nano[1] database at https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/nanobodies/.
+Original data were downloaded from the SAbDab-nano[1] database at https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/nano/.
 
 
 
