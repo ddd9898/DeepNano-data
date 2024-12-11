@@ -1,4 +1,4 @@
-Original data were downloaded from the SAbDab-nano[1] database at https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/nano/.
+Original data were downloaded from the SAbDab-nano[1] database at https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/nano/. A copy of the database can also be found at [link](https://cloud.tsinghua.edu.cn/f/5b6b908eab9f450796ef/?dl=1) .
 
 
 
